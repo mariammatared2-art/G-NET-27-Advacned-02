@@ -1,8 +1,10 @@
 ﻿namespace Advanced_2
 { 
+
     using System;
     using System.Collections.Generic;
     namespace ShopMaster
+
     {
       
         // Starter Code: Data Models & Product Catalog
